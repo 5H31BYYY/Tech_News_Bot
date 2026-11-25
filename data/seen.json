@@ -510,6 +510,7 @@
   "github.com/jquery/jquery/releases/tag/4.1.0": 1794950131,
   "github.com/kevinraymond/florilegium": 1793388644,
   "github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0": 1794599132,
+  "github.com/lsernau/grh-lean": 1795647650,
   "github.com/microsoft/Procexp-Mac": 1794351650,
   "github.com/microsoft/onnxruntime": 1794965442,
   "github.com/mikuta0407/win4wine": 1795450529,
@@ -918,6 +919,7 @@
   "openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers": 1795335808,
   "opensourcesecurity.io/2026/10-embargo": 1794167130,
   "openssh.org/releasenotes.html": 1793891733,
+  "openwall.com/lists/oss-security/2026/11/25/9": 1795647655,
   "operator0x.com/field-notes/qwen-conversation-state-space": 1794779129,
   "orcasairband.com": 1794614190,
   "oreilly.com/radar/what-happened-to-silicon-valley": 1795381256,
@@ -1068,6 +1070,7 @@
   "seriot.ch/computation/curl.html": 1793368858,
   "serpentine.com/posts/2026/announcing-jj-musubi": 1795215649,
   "servo.org/blog/2026/11/05/september-in-servo": 1793902534,
+  "servo.org/blog/2026/11/25/october-in-servo": 1795647657,
   "sgiannopoulos.github.io/blog/machine-code-programming": 1795298747,
   "sheets.works/data-viz/cpu-dies": 1794118529,
   "shittyscreenshare.com": 1793092528,
@@ -2523,6 +2526,7 @@
   "techmeme.com/261125/p36": 1795642241,
   "techmeme.com/261125/p37": 1795643131,
   "techmeme.com/261125/p38": 1795644930,
+  "techmeme.com/261125/p39": 1795647653,
   "techmeme.com/261125/p4": 1795589129,
   "techmeme.com/261125/p5": 1795590063,
   "techmeme.com/261125/p6": 1795590935,
@@ -2709,5 +2713,6 @@
   "zebra.rodeo/en/blog/marelleo": 1793452531,
   "zerodha.tech/blog/high-performance-distributed-blob-storage": 1795092330,
   "ziglang.org/news/0.17.1-released": 1793826049,
-  "zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles": 1794690941
+  "zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles": 1794690941,
+  "zydra.sh/articles/ssh-is-a-gui-framework": 1795647652
 }
